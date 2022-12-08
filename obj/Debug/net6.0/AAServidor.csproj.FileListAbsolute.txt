@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\bin\Debug\net6.0\AAServidor.exe
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\bin\Debug\net6.0\AAServidor.deps.json
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\bin\Debug\net6.0\AAServidor.runtimeconfig.json
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\bin\Debug\net6.0\AAServidor.dll
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\bin\Debug\net6.0\ref\AAServidor.dll
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\bin\Debug\net6.0\AAServidor.pdb
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\obj\Debug\net6.0\AAServidor.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\obj\Debug\net6.0\AAServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\obj\Debug\net6.0\AAServidor.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\obj\Debug\net6.0\AAServidor.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\obj\Debug\net6.0\AAServidor.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\obj\Debug\net6.0\AAServidor.dll
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\obj\Debug\net6.0\ref\AAServidor.dll
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\obj\Debug\net6.0\AAServidor.pdb
+C:\Users\Sergio\Desktop\ClienteServidor\Servidor\AAServidor\obj\Debug\net6.0\AAServidor.genruntimeconfig.cache
