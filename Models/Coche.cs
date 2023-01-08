@@ -1,3 +1,5 @@
+using System;
+
 namespace Classes;
 
 public class Coche
@@ -33,6 +35,10 @@ public class Coche
         {
             if(respuesta == "S" || respuesta == "N"){
                 if(respuesta == "S"){
+                    if(coche.Comprado == true){
+                        inicio = "El coche ya esta comprado";
+                        return inicio;
+                    }
                   var usuario = Usuario.recogerUsuarioPorNombre(nombreUsuario);
                     if(coche.Precio > usuario.Dinero){
                         inicio = "No tienes suficiente saldo.";
