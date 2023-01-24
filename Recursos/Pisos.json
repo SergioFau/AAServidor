@@ -1,0 +1,51 @@
+[
+    {
+      "Id": 1,
+      "Localizacion": "Zaragoza",
+      "FechaEntrada": "2023-01-13T18:24:22.7814512+01:00",
+      "Precio": 50000.0,
+      "Comprado": false,
+      "FechaCompra": null,
+      "IdComprador": ""
+    },
+    
+    {
+      "Id": 2,
+      "Localizacion": "Madrid",
+      "FechaEntrada": "2023-01-13T18:24:22.7814512+01:00",
+      "Precio": 40000.0,
+      "Comprado": false,
+      "FechaCompra": null,
+      "IdComprador": ""
+    } ,
+    
+    {
+      "Id": 3,
+      "Localizacion": "Barcelona",
+      "FechaEntrada": "2023-01-13T18:24:22.7814512+01:00",
+      "Precio": 75000.0,
+      "Comprado": false,
+      "FechaCompra": null,
+      "IdComprador": ""
+    } ,
+    
+    {
+      "Id": 4,
+      "Localizacion": "Almeria",
+      "FechaEntrada": "2023-01-13T18:24:22.7814512+01:00",
+      "Precio": 1500.0,
+      "Comprado": false,
+      "FechaCompra": null,
+      "IdComprador": ""
+    } ,
+    
+    {
+      "Id": 5,
+      "Localizacion": "Mordor",
+      "FechaEntrada": "2023-01-13T18:24:22.7814512+01:00",
+      "Precio": 1000000.0,
+      "Comprado": false,
+      "FechaCompra": null,
+      "IdComprador": ""
+    } 
+  ]
